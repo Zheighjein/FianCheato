@@ -1,0 +1,13 @@
+# Ignore all captured piece templates
+templates/*
+stockfish/*
+
+# Ignore Stockfish binary
+stockfish.exe
+*.exe
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
