@@ -8,6 +8,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-Overlay-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Stockfish](https://img.shields.io/badge/Stockfish-UCI_Engine-2E2E2E?style=for-the-badge&logo=chessdotcom&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 </div>
 
@@ -85,3 +86,13 @@ FianCheato/
 ├── stockfish.exe    # Local Stockfish binary (gitignored)
 └── templates/       # Auto-captured piece PNGs (gitignored)
 ```
+
+---
+
+## 👤 Author
+
+**Zheighjein** — [@Zheighjein](https://github.com/Zheighjein)
+
+## 📄 License
+
+Copyright © 2026 Zheighjein. Licensed under the [MIT License](LICENSE).
